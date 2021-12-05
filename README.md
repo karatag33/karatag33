@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karatag33
 - 👀 I’m interested in ccs, micro c and ardunıo
 - 🌱 I’m currently learning ccs 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on microprocessor
 - 📫 durmusalikaratag33@gmail.com
 
 <!---
